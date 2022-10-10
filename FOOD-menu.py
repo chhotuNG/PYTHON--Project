@@ -71,7 +71,7 @@ while True:
                         print("you enter something wrong!!! ")
             elif meal == 2:
                 while True:
-                    print("""AVAILAIBLE FOOD FOR BREKFAST :-
+                    print("""AVAILAIBLE FOOD FOR LUNCH :-
             PRESS 1 FOR DALL CHAVAL 
             PRESS 2 FOR MATON CHAVAL 
             PRESS 3 FOR VEG CHAVAL 
@@ -123,7 +123,7 @@ while True:
                         print("you enter something wrong!!! ")
             elif meal == 3:
                 while True:
-                    print("""AVAILAIBLE FOOD FOR BREKFAST :-
+                    print("""AVAILAIBLE FOOD FOR DINNER  :-
             PRESS 1 FOR DALL ROTI 
             PRESS 2 FOR MATON ROTI  
             PRESS 3 FOR VEG ROTI
@@ -238,7 +238,7 @@ while True:
                         print("you enter something wrong!!! ")
             elif meal == 2:
                 while True:
-                    print("""AVAILAIBLE FOOD FOR BREKFAST :-
+                    print("""AVAILAIBLE FOOD FOR LUNCH :-
             PRESS 1 FOR DALL CHAVAL 
             PRESS 2 FOR MATON CHAVAL 
             PRESS 3 FOR VEG CHAVAL 
@@ -290,7 +290,7 @@ while True:
                         print("you enter something wrong!!! ")
             elif meal == 3:
                 while True:
-                    print("""AVAILAIBLE FOOD FOR BREKFAST :-
+                    print("""AVAILAIBLE FOOD FOR DINNER :-
             PRESS 1 FOR DALL ROTI 
             PRESS 2 FOR MATON ROTI  
             PRESS 3 FOR VEG ROTI
@@ -404,7 +404,7 @@ while True:
                         print("you enter something wrong!!! ")
             elif meal == 2:
                 while True:
-                    print("""AVAILAIBLE FOOD FOR BREKFAST :-
+                    print("""AVAILAIBLE FOOD FOR LUNCH :-
             PRESS 1 FOR DALL CHAVAL 
             PRESS 2 FOR MATON CHAVAL 
             PRESS 3 FOR VEG CHAVAL 
